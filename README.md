@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://qihang-zhang.com/Learning-Sys-Blog/2025/10/15/weighted-product-of-experts.html" target="_blank">
-    <img src="https://img.shields.io/badge/EMNLP%202025-Paper-006400?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Blog" />
+  <img src="https://img.shields.io/badge/BLOG-006400?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
   </a>
   <a href="https://aclanthology.org/2025.findings-emnlp.110/" target="_blank">
     <img src="https://img.shields.io/badge/EMNLP%202025-Paper-006400?style=for-the-badge&logo=readthedocs&logoColor=white" alt="EMNLP 2025 Paper" />
