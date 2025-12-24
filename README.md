@@ -1,7 +1,7 @@
 # Test-Time Steering for Lossless Text Compression via Weighted Product of Experts
 
 <p align="center">
-  <a href="https://qihang-zhang.com/Learning-Sys-Blog/2025/10/15/weighted-product-of-experts.html" target="_blank">
+  <a href="https://blog.qihang-zhang.com/2025/10/15/weighted-product-of-experts" target="_blank">
   <img src="https://img.shields.io/badge/BLOG-006400?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
   </a>
   <a href="https://aclanthology.org/2025.findings-emnlp.110/" target="_blank">
